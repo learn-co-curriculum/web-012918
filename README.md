@@ -4,4 +4,4 @@
 # Videos
 
 ## Module 1
-* [Hashketball Review] _video coming soon_ | [Code](https://gist.github.com/alexgriff/9281a31dd3c953920ac7ea8a0850f76a)
+* [Hashketball Review](http://youtu.be/RFl9LL349QA) | [Code](https://gist.github.com/alexgriff/9281a31dd3c953920ac7ea8a0850f76a)
