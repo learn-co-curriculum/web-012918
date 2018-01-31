@@ -6,4 +6,4 @@
 ## Module 1
 * [Hashketball Review](http://youtu.be/RFl9LL349QA) | [Code](https://gist.github.com/alexgriff/9281a31dd3c953920ac7ea8a0850f76a)
 * [Hashes and the Internet](http://youtu.be/LXMu1vhtnJM) | [Code](https://gist.github.com/alexgriff/e6807ed7a4c2c3f1454cdad4f8c908c5)
-* [Object Orientation Fundamentals & `self`] _video will be up in a few minutes_ | [Code](https://github.com/learn-co-curriculum/intro-to-objects-web-012918)
+* [Object Orientation Fundamentals & `self`](https://www.youtube.com/watch?v=Lf__sW5Zk4c)| [Code](https://github.com/learn-co-curriculum/intro-to-objects-web-012918)
