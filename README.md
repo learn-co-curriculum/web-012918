@@ -10,4 +10,5 @@
 * [OO Relations: Has Many / Belongs To](http://youtu.be/KRf2hiYZZMg) | [Code](https://github.com/learn-co-curriculum/oo-relations-lecture-web-012918/)
 * [OO Relations: Has Many Through](https://youtu.be/sbiPiSs2WLE) | [Code](https://github.com/learn-co-curriculum/oo-has-many-through-lecture-web-012918/) | [OO Pets Code](https://github.com/learn-co-curriculum/oo-pets-web-012918/)
 * [Intro to SQL](https://youtu.be/pGUkmH1m9lI) | [Code](https://github.com/learn-co-curriculum/intro-to-sql-web-012918/)
+* [Intro to ORMs](https://youtu.be/8Xh5G_dfR60) | [Code](https://github.com/learn-co-curriculum/orm-intro-web-012918/)
 
