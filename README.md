@@ -12,4 +12,5 @@
 * [Intro to SQL](https://youtu.be/pGUkmH1m9lI) | [Code](https://github.com/learn-co-curriculum/intro-to-sql-web-012918/)
 * [Intro to ORMs](https://youtu.be/8Xh5G_dfR60) | [Code](https://github.com/learn-co-curriculum/orm-intro-web-012918/)
 * [Dynamic ORMs and ActiveRecord](http://youtu.be/_sN94lrBUV8) | [Code](https://github.com/learn-co-curriculum/orm-intro-web-012918)
+* [ActiveRecord: Migrations & Relations] _video coming soon_ | [Code](https://github.com/learn-co-curriculum/active-record-web-012918)
 
