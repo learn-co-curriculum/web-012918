@@ -14,3 +14,5 @@
 * [Dynamic ORMs and ActiveRecord](http://youtu.be/_sN94lrBUV8) | [Code](https://github.com/learn-co-curriculum/orm-intro-web-012918)
 * [ActiveRecord: Migrations & Relations](http://youtu.be/Vm67n1PtYiA) | [Code](https://github.com/learn-co-curriculum/active-record-web-012918)
 
+## Module 2
+* [The Internet and Rack](https://youtu.be/7nJiK1oyQSg ) | [Code](https://github.com/learn-co-curriculum/internet-and-rack-012918/)
