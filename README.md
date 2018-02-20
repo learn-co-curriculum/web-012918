@@ -15,4 +15,5 @@
 * [ActiveRecord: Migrations & Relations](http://youtu.be/Vm67n1PtYiA) | [Code](https://github.com/learn-co-curriculum/active-record-web-012918)
 
 ## Module 2
-* [The Internet and Rack](https://youtu.be/7nJiK1oyQSg ) | [Code](https://github.com/learn-co-curriculum/internet-and-rack-012918/)
+* [The Internet and Rack](https://youtu.be/7nJiK1oyQSg) | [Code](https://github.com/learn-co-curriculum/internet-and-rack-012918/)
+* [Sinatra MVC and Forms](https://youtu.be/hHM9mRlynXM) | [Code](https://github.com/learn-co-students/web-012918/tree/master/1_sinatra_forms)
