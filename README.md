@@ -19,3 +19,4 @@
 * [Sinatra MVC and Forms](https://youtu.be/hHM9mRlynXM) | [Code](https://github.com/learn-co-students/web-012918/tree/master/1_sinatra_forms)
 * [Sinatra Nested Forms](https://www.youtube.com/watch?v=2APPhduOjwc) | [Code](https://github.com/learn-co-students/web-012918/tree/master/2_sinatra_forms)
 * [Rails CRUD and Forms](https://youtu.be/4nstm1rn1hU) | [Code](https://github.com/learn-co-students/web-012918/tree/master/3_students_app)
+* [Rails Validations](https://youtu.be/EMRiHCxiffc) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-starter/tree/web-012918)
