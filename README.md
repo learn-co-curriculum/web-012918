@@ -20,3 +20,5 @@
 * [Sinatra Nested Forms](https://www.youtube.com/watch?v=2APPhduOjwc) | [Code](https://github.com/learn-co-students/web-012918/tree/master/2_sinatra_forms)
 * [Rails CRUD and Forms](https://youtu.be/4nstm1rn1hU) | [Code](https://github.com/learn-co-students/web-012918/tree/master/3_students_app)
 * [Rails Validations](https://youtu.be/EMRiHCxiffc) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-starter/tree/web-012918)
+* [Rails Authorization](https://www.youtube.com/watch?v=xwWwmu1rf7s) | [Code](https://github.com/learn-co-students/web-012918/tree/master/5_authorization)
+* [Rails Authentication](https://www.youtube.com/watch?v=sqtGyP9ZXSk) | [Code](https://github.com/learn-co-students/web-012918/tree/master/4_authentication)
