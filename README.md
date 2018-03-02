@@ -22,3 +22,4 @@
 * [Rails Validations](https://youtu.be/EMRiHCxiffc) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-starter/tree/web-012918)
 * [Rails Authorization](https://www.youtube.com/watch?v=xwWwmu1rf7s) | [Code](https://github.com/learn-co-students/web-012918/tree/master/5_authorization)
 * [Rails Authentication](https://www.youtube.com/watch?v=sqtGyP9ZXSk) | [Code](https://github.com/learn-co-students/web-012918/tree/master/4_authentication)
+* [Rails CRUD Review](https://youtu.be/15UDFMwWHU8) | [Code](https://github.com/laurkim/sled_dog_rails)
