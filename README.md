@@ -26,4 +26,5 @@
 
 ## Module 3
 * [Introduction to JS](https://youtu.be/bN7NMXQAVEs) | [Code](https://github.com/learn-co-students/web-012918/tree/master/6_intro_to_js)
-* [Functional JS](https://youtu.be/jGHq5ZXjHwE) | [Code](https://github.com/laurkim/web-012918-functional-js/blob/master/index.js)
+* [Functional JS](https://youtu.be/jGHq5ZXjHwE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/7_functional_js)
+* [Object Oriented JS](https://youtu.be/_qRvPFiPxGE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/8_oo_js)
