@@ -28,3 +28,6 @@
 * [Introduction to JS](https://youtu.be/bN7NMXQAVEs) | [Code](https://github.com/learn-co-students/web-012918/tree/master/6_intro_to_js)
 * [Functional JS](https://youtu.be/jGHq5ZXjHwE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/7_functional_js)
 * [Object Oriented JS](https://youtu.be/_qRvPFiPxGE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/8_oo_js)
+* [This](https://youtu.be/iKw5zkypZD8) | [Code](https://github.com/learn-co-students/web-012918/tree/master/9_this)
+* [The Browser & DOM](https://youtu.be/37FP16KzFyw) | [Code](https://github.com/learn-co-students/web-012918/tree/master/10_dom)
+* [Events](https://youtu.be/BQAYuTNt8yk) | [Code](https://github.com/learn-co-students/web-012918/tree/master/11_events)
