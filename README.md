@@ -31,3 +31,4 @@
 * [This](https://youtu.be/iKw5zkypZD8) | [Code](https://github.com/learn-co-students/web-012918/tree/master/9_this)
 * [The Browser & DOM](https://youtu.be/37FP16KzFyw) | [Code](https://github.com/learn-co-students/web-012918/tree/master/10_dom)
 * [Events](https://youtu.be/BQAYuTNt8yk) | [Code](https://github.com/learn-co-students/web-012918/tree/master/11_events)
+* [Fetch](https://youtu.be/haE5LVXG4j0) | [Code](https://github.com/learn-co-students/web-012918/tree/master/12_fetch)
