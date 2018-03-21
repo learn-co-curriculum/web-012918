@@ -33,3 +33,4 @@
 * [Events](https://youtu.be/BQAYuTNt8yk) | [Code](https://github.com/learn-co-students/web-012918/tree/master/11_events)
 * [Fetch](https://youtu.be/haE5LVXG4j0) | [Code](https://github.com/learn-co-students/web-012918/tree/master/12_fetch)
 * [Organization](https://youtu.be/FLhlo0oFiQw) | [Code](https://github.com/learn-co-students/web-012918/tree/master/13_organization)
+* [Rails API](https://youtu.be/ura2bx4X8ig) | [Code](https://github.com/learn-co-students/web-012918/tree/master/14_apis)
