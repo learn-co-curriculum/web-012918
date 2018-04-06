@@ -41,3 +41,4 @@
 * [Props and State 1 classic lecture](https://www.youtube.com/watch?v=j3y2_CQZXVM&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=10) | [Props and State 2 classic  lecture](https://www.youtube.com/watch?v=8VCS8O-efOM&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=11) | [Props and state Graham's code (paintr)](https://github.com/learn-co-students/web-012918/tree/master/19_react_props_state)
 * [React State and events](https://youtu.be/Dk6glbnVlgE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/20_react_state_events)
 * [React Forms](https://www.youtube.com/watch?v=AFetFMpKHPQ) | [Code](https://github.com/learn-co-students/web-012918/tree/master/21_react_forms)
+* [Hogwarts Lab Review](https://youtu.be/5ygL6U-bgZE) | [Code](https://github.com/laurkim/hogwarts-review-web-012918)
