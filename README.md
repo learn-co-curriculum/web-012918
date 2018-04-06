@@ -16,19 +16,19 @@
 
 ## Module 2
 * [The Internet and Rack](https://youtu.be/7nJiK1oyQSg) | [Code](https://github.com/learn-co-curriculum/internet-and-rack-012918/)
-* [Sinatra MVC and Forms](https://youtu.be/hHM9mRlynXM) | [Code](https://github.com/learn-co-students/web-012918/tree/master/1_sinatra_forms)
-* [Sinatra Nested Forms](https://www.youtube.com/watch?v=2APPhduOjwc) | [Code](https://github.com/learn-co-students/web-012918/tree/master/2_sinatra_forms)
-* [Rails CRUD and Forms](https://youtu.be/4nstm1rn1hU) | [Code](https://github.com/learn-co-students/web-012918/tree/master/3_students_app)
+* [Sinatra MVC and Forms](https://youtu.be/hHM9mRlynXM) | [Code](https://github.com/learn-co-students/web-012918/tree/master/01_sinatra_forms)
+* [Sinatra Nested Forms](https://www.youtube.com/watch?v=2APPhduOjwc) | [Code](https://github.com/learn-co-students/web-012918/tree/master/02_sinatra_forms)
+* [Rails CRUD and Forms](https://youtu.be/4nstm1rn1hU) | [Code](https://github.com/learn-co-students/web-012918/tree/master/03_students_app)
 * [Rails Validations](https://youtu.be/EMRiHCxiffc) | [Code](https://github.com/learn-co-curriculum/student-lister-rails-starter/tree/web-012918)
-* [Rails Authorization](https://www.youtube.com/watch?v=xwWwmu1rf7s) | [Code](https://github.com/learn-co-students/web-012918/tree/master/5_authorization)
-* [Rails Authentication](https://www.youtube.com/watch?v=sqtGyP9ZXSk) | [Code](https://github.com/learn-co-students/web-012918/tree/master/4_authentication)
+* [Rails Authorization](https://www.youtube.com/watch?v=xwWwmu1rf7s) | [Code](https://github.com/learn-co-students/web-012918/tree/master/05_authorization)
+* [Rails Authentication](https://www.youtube.com/watch?v=sqtGyP9ZXSk) | [Code](https://github.com/learn-co-students/web-012918/tree/master/04_authentication)
 * [Rails CRUD Review](https://youtu.be/15UDFMwWHU8) | [Code](https://github.com/laurkim/sled_dog_rails)
 
 ## Module 3
-* [Introduction to JS](https://youtu.be/bN7NMXQAVEs) | [Code](https://github.com/learn-co-students/web-012918/tree/master/6_intro_to_js)
-* [Functional JS](https://youtu.be/jGHq5ZXjHwE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/7_functional_js)
-* [Object Oriented JS](https://youtu.be/_qRvPFiPxGE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/8_oo_js)
-* [This](https://youtu.be/iKw5zkypZD8) | [Code](https://github.com/learn-co-students/web-012918/tree/master/9_this)
+* [Introduction to JS](https://youtu.be/bN7NMXQAVEs) | [Code](https://github.com/learn-co-students/web-012918/tree/master/06_intro_to_js)
+* [Functional JS](https://youtu.be/jGHq5ZXjHwE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/07_functional_js)
+* [Object Oriented JS](https://youtu.be/_qRvPFiPxGE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/08_oo_js)
+* [This](https://youtu.be/iKw5zkypZD8) | [Code](https://github.com/learn-co-students/web-012918/tree/master/09_this)
 * [The Browser & DOM](https://youtu.be/37FP16KzFyw) | [Code](https://github.com/learn-co-students/web-012918/tree/master/10_dom)
 * [Events](https://youtu.be/BQAYuTNt8yk) | [Code](https://github.com/learn-co-students/web-012918/tree/master/11_events)
 * [Fetch](https://youtu.be/haE5LVXG4j0) | [Code](https://github.com/learn-co-students/web-012918/tree/master/12_fetch)
