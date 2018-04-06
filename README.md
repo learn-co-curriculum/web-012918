@@ -35,3 +35,9 @@
 * [Organization](https://youtu.be/FLhlo0oFiQw) | [Code](https://github.com/learn-co-students/web-012918/tree/master/13_organization)
 * [Rails API](https://youtu.be/ura2bx4X8ig) | [Code](https://github.com/learn-co-students/web-012918/tree/master/14_apis)
 * [Sockets as Client](https://youtu.be/h5bFIFSD85s) | [Code](https://github.com/learn-co-students/web-012918/tree/master/18_sockets_as_client)
+
+## Module 4
+* [Intro to React classic lecture](https://youtu.be/Z0e97DfAe4E) | [Classic code](https://github.com/learn-co-students/web-121117/tree/master/32-intro-react)
+* [Props and State 1 classic lecture](https://www.youtube.com/watch?v=j3y2_CQZXVM&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=10) | [Props and State 2 classic  lecture](https://www.youtube.com/watch?v=8VCS8O-efOM&list=PLc6AmvC5ZybzTjdZ842MLVX0nuiLuUG6C&index=11) | [Props and state Graham's code (paintr)](https://github.com/learn-co-students/web-012918/tree/master/19_react_props_state)
+* [React State and events](https://youtu.be/Dk6glbnVlgE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/20_react_state_events)
+* [React Forms](https://www.youtube.com/watch?v=AFetFMpKHPQ) | [Code](https://github.com/learn-co-students/web-012918/tree/master/21_react_forms)
