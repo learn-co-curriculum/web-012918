@@ -42,3 +42,5 @@
 * [React State and events](https://youtu.be/Dk6glbnVlgE) | [Code](https://github.com/learn-co-students/web-012918/tree/master/20_react_state_events)
 * [React Forms](https://www.youtube.com/watch?v=AFetFMpKHPQ) | [Code](https://github.com/learn-co-students/web-012918/tree/master/21_react_forms)
 * [Hogwarts Lab Review](https://youtu.be/5ygL6U-bgZE) | [Code](https://github.com/laurkim/hogwarts-review-web-012918)
+* [React Lifecycle Methods](https://www.youtube.com/watch?v=zTjiCx6I3tY) | [Code](https://github.com/learn-co-students/web-012918/tree/master/22_react_lifecycle)
+* [React Router](https://www.youtube.com/watch?v=zTjiCx6I3tY) | [Code](https://github.com/learn-co-students/web-012918/tree/master/23_react_router)
