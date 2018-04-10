@@ -45,4 +45,3 @@
 * [React Lifecycle Methods](https://www.youtube.com/watch?v=zTjiCx6I3tY) | [Code](https://github.com/learn-co-students/web-012918/tree/master/22_react_lifecycle)
 * [React Router](https://www.youtube.com/watch?v=zTjiCx6I3tY) | [Code](https://github.com/learn-co-students/web-012918/tree/master/23_react_router)
 * [Sled Dogs React](https://youtu.be/tMl64F6OJS4) | [Code](https://github.com/laurkim/web-012918-snowPupsFrontEnd)
-33
