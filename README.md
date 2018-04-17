@@ -46,3 +46,4 @@
 * [React Router](https://www.youtube.com/watch?v=zTjiCx6I3tY) | [Code](https://github.com/learn-co-students/web-012918/tree/master/23_react_router)
 * [Sled Dogs React](https://youtu.be/tMl64F6OJS4) | [Code](https://github.com/laurkim/web-012918-snowPupsFrontEnd)
 * [Higher-Order Components](https://www.youtube.com/watch?v=gvS-5ZJEgB0) | [Code](https://github.com/learn-co-students/web-012918/tree/master/26_hoc)
+* [Recursion & Big O Basics](https://youtu.be/EWxfy3ax8dg) | [Notes](https://github.com/learn-co-students/web-012918/blob/master/27_recursion_big_o/README.txt)
