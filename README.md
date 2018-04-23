@@ -49,3 +49,4 @@
 * [Recursion & Big O Basics](https://youtu.be/EWxfy3ax8dg) | [Notes](https://github.com/learn-co-students/web-012918/blob/master/27_recursion_big_o/README.txt)
 * [Intro to Redux](https://youtu.be/oS-mPdePT5U) | [Slide Deck](https://goo.gl/427ai6)
 * [React to Redux](https://youtu.be/IJop-ozph14) | [Code](https://github.com/laurkim/reDucks)
+* [Redux Thunk](https://youtu.be/0xNfaEDb8wE) | [Code](https://github.com/laurkim/reDucks)
